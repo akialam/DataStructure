@@ -12,6 +12,7 @@ public class Runnable {
 		l.insertHead(10);
 		l.insertAt(0, 60);
 		l.deleteAt(1);
+		l.insert(2,90);
 		l.show();
 		
 		
